@@ -1,3 +1,4 @@
+@regression @update
 Feature: Update User feature
 
 Background:

@@ -1,4 +1,4 @@
-@regression
+@regression @create
 Feature: Create User feature
  
 Background:

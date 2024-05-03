@@ -1,3 +1,4 @@
+@regression @delete
 Feature: Delete User feature
 
 Background:

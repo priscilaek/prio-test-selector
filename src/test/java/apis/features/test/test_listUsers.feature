@@ -1,3 +1,4 @@
+@regression @list
 Feature: Get Users feature
 
 Background:

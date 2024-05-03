@@ -1,3 +1,4 @@
+@regression @register
 Feature: Register feature
 
 Background:

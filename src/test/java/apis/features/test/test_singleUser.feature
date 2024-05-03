@@ -1,3 +1,4 @@
+@regression @readUser
 Feature: Get User feature
 
 Background:
